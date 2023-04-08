@@ -1,0 +1,10 @@
+{
+  "apiVersion": 2,
+  "name": "rc/donation",
+  "title": "Donation",
+  "description": "A simple donation popup tool.",
+  "category": "text",
+  "icon": "format-status",
+  "textdomain": "rc-donation",
+  "editorScript": "file:./index.js"
+}
